@@ -16,7 +16,7 @@ Une application web de films développée avec React. Cette application permet a
 - 🎨 **Interface moderne** - Design épuré et intuitif
 
 ## 📁 Structure du Projet
-
+```
 movie-app/
 ├── components/
 │ ├── MovieCard.js # Carte d'affichage d'un film
@@ -36,7 +36,7 @@ movie-app/
 ├── reportWebVitals.js # Performance metrics
 ├── setupTests.js # Configuration tests
 └── styles.css # Styles additionnels
-
+```
 ## 🚀 Installation
 
 ### Prérequis
